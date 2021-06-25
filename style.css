@@ -1,0 +1,140 @@
+h1{
+    font-family: 'Amatic SC', cursive;
+    color:#439183
+    ;
+    text-shadow:2px 2px #0baf86; 
+    font-size:700%;
+    text-align:center;
+    
+}
+
+p{
+    font-family: 'Oswald', sans-serif;
+    font-size:medium;
+    font-weight:200;
+    color:black;
+    font-size:200%;
+}
+
+
+
+#Particle{
+    background:linear-gradient( 
+        #439183 0%, #03686f 100% );
+    opacity:0.83;
+    overflow:hidden;
+    height:90%;
+    text-align: center;
+}
+
+
+h4{
+    font-size:1100%;
+    font-family: 'Amatic SC', cursive;
+    color:#f5f5f5;
+  
+
+}
+
+h2{
+    font-family: 'Amatic SC', cursive;
+    color:#f5f5f5; 
+    font-size: 350%; 
+}
+
+#Music{
+    text-align:center;
+}
+
+
+
+
+a {
+    font-family: 'Amatic SC', cursive;   
+    font-size: 200%;
+
+}
+
+#navbar-brand{
+    font-family: 'Amatic SC', cursive;   
+    font-size: 200%;
+
+}
+
+h3{
+    font-family: 'Amatic SC', cursive; 
+    font-size:350%; 
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+
+#breaker{
+
+text-align: center;
+}
+
+#p1{
+    font-family: 'Oswald', sans-serif;
+    font-size:400%;
+    
+}
+
+#about_us{
+    text-align:left;
+}
+
+#chronicles_of_joy{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#space_gods{
+    margin-left:10%;
+    margin-right:10%; 
+}
+
+
+#puzzles{
+    margin-left:10%;
+    margin-right:10%;   
+}
+
+#about_us{
+    margin-left:10%;
+    margin-right:10%;
+      
+}
+
+img{
+    max-width: 100%;
+}
+
+#p2{
+    text-align: center;
+}
+
+#amthoughts{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#poems{
+    margin-left:10%;
+    margin-right:10%; 
+}
+
+
+body {
+    background-color: #f5f5f5;
+}
+
+#guest_features{
+    margin-left:10%;
+    margin-right:10%;  
+}
+
+#images{
+    width:40%;
+}
